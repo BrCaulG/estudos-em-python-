@@ -1,0 +1,12 @@
+
+n = float(input("digite um numero: "))
+n2 = float(input("digite outro numero: "))
+
+soma = n + n2
+soma2 = n - n2
+soma3 = n * n2
+soma4= n / n2
+print(f"o resultado em adicao é: {soma} ")
+print(f"o resultado em subtraçao é: {soma2} ")
+print(f"o resultado em multiplicação é: {soma3} ")
+print(f"o resultado em divisão é: {soma4} ")
